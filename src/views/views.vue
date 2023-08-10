@@ -7,10 +7,12 @@ import ThirdSection from '../components/allSection/ThirdSection.vue'
 import FourthSection from '../components/allSection/FourthSection.vue';
 import FifthSection from '../components/allSection/FifthSection.vue'
 import SixthSection from '../components/allSection/SixthSection.vue';
+import SeventhSection from '../components/allSection/SeventhSection.vue';
+import EightSection from '../components/allSection/EightSection.vue';
 
 
 export default defineComponent({
-    components:{ FirstSection, SecondSection, ThirdSection, FourthSection, FifthSection, SixthSection },
+    components:{ FirstSection, SecondSection, ThirdSection, FourthSection, FifthSection, SixthSection, SeventhSection, EightSection },
     data(){
         return{
 
@@ -36,6 +38,8 @@ export default defineComponent({
     <FourthSection class="py-[80px]" />
     <FifthSection class="py-[80px]" />
     <SixthSection class="py-[80px]" />
+    <SeventhSection class="py-[80px]" />
+    <EightSection class="py-[80px]" />
    </div>
 </template>
 

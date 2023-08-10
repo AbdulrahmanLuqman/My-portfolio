@@ -6,7 +6,7 @@
         </div>
 
         <div class="space-y-10">
-            <p data-aos="fade-up" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="md:text-6xl text-4xl">My <span class="text-[#F31313]">Advantages</span></p>
+            <p data-aos="fade-up" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="md:text-6xl text-3xl">My <span class="text-[#F31313]">Advantages</span></p>
             <div class="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                 <div  data-aos="fade-right" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="border transition-border duration-500 hover:transition-border hover:duration-500 border-[#565656] hover:border-[#F31313] rounded-[90px] h-[250px] px-4 space-y-4 flex flex-col items-center justify-between py-10">
                     <img class="w-[100px] " src="../../assets/images/html.png" alt="">

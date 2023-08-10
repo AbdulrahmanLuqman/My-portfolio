@@ -32,7 +32,7 @@ export default defineComponent({
       <div class="bg-white w-[20px] h-[2px] z-[500]"></div>
       <div class="bg-white w-[20px] h-[2px] z-[500]"></div>
    </div>
-   <div class="block w-full md:w-[340px] z-[999] h-screen bg-[#191919] fixed top-0 transition-right duration-700" :class="showSideNavs ? 'right-0' : 'right-[1500px]'">
+   <div class="block w-full md:w-[340px] z-[999] h-screen bg-[#191919] fixed top-0 transition-right duration-700" :class="showSideNavs ? 'right-0' : 'right-[15000px]'">
       <!-- <div  @click="showSideNavs = false" class="w-fit absolute right-2 top-6 cursor-pointer">
          <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="currentColor" d="M6.4 19L5 17.6l5.6-5.6L5 6.4L6.4 5l5.6 5.6L17.6 5L19 6.4L13.4 12l5.6 5.6l-1.4 1.4l-5.6-5.6L6.4 19Z"/></svg>
       </div> -->
@@ -173,5 +173,12 @@ export default defineComponent({
 </template>
 
 <style scoped>
-
+.triangle{
+   /* clip-path: polygon(0 81%, 0 87%, 9% 85%);
+   background-color: red;
+   position: relative;
+   top: 400px;
+   height: 20px;
+   width: 20px; */
+}
 </style>
