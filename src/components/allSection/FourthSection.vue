@@ -5,7 +5,7 @@
             <p class="uppercase text-sm">Services</p>
         </div>
         <p data-aos="fade-up" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="md:text-6xl text-3xl">My <span class="text-[#F31313]">Specialization</span></p>
-        <div data-aos="fade-up" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="box flex justify-between p-14 border border-gray-600 transition-border duration-200 rounded-[20px] hover:border-[#F31313] hover:transition-border hover:duration-200">
+        <div data-aos="fade-up" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="boxx flex justify-between p-14 border border-gray-600 transition-border duration-200 rounded-[20px] hover:border-[#F31313] hover:transition-border hover:duration-200">
             <div class="space-y-2">
                 <div class="space-y-4">
                     <p class="text-2xl">Web Development</p>
@@ -19,7 +19,7 @@
 </template>
 
 <style scoped>
-.box:hover .projects{
+.boxx:hover .projects{
     text-decoration: underline;
 }
 </style>
