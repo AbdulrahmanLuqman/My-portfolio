@@ -327,7 +327,7 @@ export default defineComponent({
                 
                 <div data-aos="fade-up" data-aos-duration="1000" data-aos-offset="200" data-aos-delay="100" data-aos-easing="ease-in-out" class="space-y-2">
                     <div class="website relative">
-                      <img class="rounded-2xl w-full" src="./assets/images/Anjorin .png" alt="">
+                      <img class="rounded-2xl w-full" src="./assets/images/Anjorin.png" alt="">
                       <div class="absolute top-0 bg-black h-full w-full opacity-25"></div>
                       <div class="absolute flex gap-4 bottom-4 left-2">
                         <p class="code lg:text-base md:text-sm text-[10px] transition-all duration-200 text-black bg-[whitesmoke] px-4 py-2 rounded-[25px]">Html</p>
